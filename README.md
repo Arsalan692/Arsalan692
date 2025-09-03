@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://github.com/Arsalan692/Arsalan692/blob/main/assets/langchain-color.svg" alt="C" width="40" height="40"/>
+  <img src="https://github.com/Arsalan692/Arsalan692/blob/main/assets/langgraph-color.svg" alt="C" width="40" height="40"/>
+  <img src="https://github.com/Arsalan692/Arsalan692/blob/main/assets/langsmith-color.svg" alt="C" width="40" height="40"/>
 
 
 </p>
