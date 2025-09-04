@@ -30,6 +30,11 @@
   <a href="https://www.linkedin.com/in/arsalan-ahmed-996567218" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
+  <a href="https://wa.me/+923022073883" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40"/>
+  </a>
+
+
  
 </p>
 
