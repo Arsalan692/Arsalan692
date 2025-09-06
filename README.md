@@ -68,5 +68,17 @@
 ---
 
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan692&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsalan692&show_icons=true&theme=radical)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan692&layout=compact&theme=radical" alt="Top Languages" width="400" />
+    </td>
+    <td width="55%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Arsalan692&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
+    </td>
+  </tr>
+</table>
+
